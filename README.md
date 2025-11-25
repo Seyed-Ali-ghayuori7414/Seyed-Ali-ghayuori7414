@@ -22,7 +22,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" width="45" />
   </a>
   
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/syd-ali-ghayuori-9235a72a3/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
 
