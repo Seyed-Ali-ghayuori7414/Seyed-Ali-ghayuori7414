@@ -1,4 +1,6 @@
-# سلام! من <نام شما> 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+#سلام! من <نام شما> 👋
 
 **<عنوان شغلی یا دانشجویی> | <زمینه‌ها>**
 
@@ -9,7 +11,6 @@
 ⚡ علاقه‌مند به: رباتیک، پردازش تصویر، مکاترونیک
 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 ## 🛠 Tech Stack
 `Python` `C++` `ROS` `OpenCV` `PX4` `YOLO` `Git`
 
