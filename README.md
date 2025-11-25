@@ -5,7 +5,8 @@
 
 �I’m a Robotics and Mechatronics Engineer specializing in advanced robotic systems, embedded control, and intelligent automation. My core interests include ROS (Robot Operating System), AMR (Autonomous Mobile Robots), SLAM (Simultaneous Localization and Mapping), and perception driven navigation. With a strong background in mechatronic integration, real time control, and software development, I strive to design high performance robotic platforms that combine hardware, firmware, and software seamlessly. Motivated by continuous learning and innovation, my goal is to contribute to next generation autonomous systems that push the boundaries of modern robotics and make a meaningful impact on society.
 
-![12](https://github.com/user-attachments/assets/a3cacd73-9732-48ca-b1ea-59f8c522a83c)
+<img src="https://github.com/user-attachments/assets/a3cacd73-9732-48ca-b1ea-59f8c522a83c" width="300" height="200">
+
 
 
 ## 🛠 Tech Stack
