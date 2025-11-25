@@ -15,6 +15,23 @@
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)
 
+## 🌍 Socials
+
+<p align="left">
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
+  </a>
+</p>
+
+
 
 
 ## 📂 پروژه‌های برجسته
