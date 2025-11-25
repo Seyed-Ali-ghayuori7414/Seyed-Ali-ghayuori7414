@@ -12,6 +12,8 @@
 ![ROS](https://skillicons.dev/icons?i=ros)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
 
 <!-- آیکون‌ها/شیلدها (مثال) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME>&layout=compact)
