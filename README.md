@@ -3,9 +3,7 @@
 
 
 **I’m a Robotics and Mechatronics Engineer specializing in advanced robotic systems, embedded control, and intelligent automation. My core interests include ROS (Robot Operating System), AMR (Autonomous Mobile Robots), SLAM (Simultaneous Localization and Mapping), and perception driven navigation. With a strong background in mechatronic integration, real time control, and software development, I strive to design high performance robotic platforms that combine hardware, firmware, and software seamlessly. Motivated by continuous learning and innovation, my goal is to contribute to next generation autonomous systems that push the boundaries of modern robotics and make a meaningful impact on society.**.<img src="https://github.com/user-attachments/assets/a3cacd73-9732-48ca-b1ea-59f8c522a83c" width="50" height="30">
-
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/user-attachments/assets/b5dc3b27-76d6-4e81-aec6-4c99d7f771d1)
-
 ## 🛠 Tech Stack
 ![Python](https://skillicons.dev/icons?i=python)
 ![C++](https://skillicons.dev/icons?i=cpp)
@@ -14,7 +12,6 @@
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)
-
 ## 🌍 Socials:
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/user-attachments/assets/b5dc3b27-76d6-4e81-aec6-4c99d7f771d1)
 <p align="left">
@@ -30,13 +27,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" width="45" />
   </a>
 </p>
-
-
-
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/user-attachments/assets/b5dc3b27-76d6-4e81-aec6-4c99d7f771d1)
-
-
-
 <img src="https://github.com/user-attachments/assets/35703217-9ac6-4764-a8b6-a2f9083b7994" width="300" height="200">
 
 
