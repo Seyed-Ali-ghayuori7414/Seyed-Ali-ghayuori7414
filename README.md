@@ -15,10 +15,10 @@
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)
 
-## 🌍 Socials
+## 🌍 Socials:
 
 <p align="left">
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:ali.ghayuori1385@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="45" />
   </a>
   
