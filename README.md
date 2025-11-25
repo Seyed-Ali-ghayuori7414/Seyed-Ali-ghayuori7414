@@ -15,10 +15,7 @@
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)
 
-<!-- آیکون‌ها/شیلدها (مثال) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME>&layout=compact)
 
----
 
 ## 📂 پروژه‌های برجسته
 - **Project-A** — توضیح کوتاه (زبان / تکنولوژی) — لینک به ریپوزیتوری
