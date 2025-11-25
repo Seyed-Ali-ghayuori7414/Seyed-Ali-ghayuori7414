@@ -7,17 +7,12 @@
 📫 ایمیل: <ایمیل یا لینک تماس>  
 ⚡ علاقه‌مند به: رباتیک، پردازش تصویر، مکاترونیک
 
----
 ## 🛠 Tech Stack
-`Python` `C++` `ROS` `OpenCV` `PX4` `YOLO` `Git`
-## 🛠 Tech Stack
-
 ![Python](https://skillicons.dev/icons?i=python)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![ROS](https://skillicons.dev/icons?i=ros)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
-https://camo.githubusercontent.com/9db68c0d11e6cbb58f7e2fca41a23432e9d937c58cf6b6ca696014439d1c536f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7562756e7475
 
 <!-- آیکون‌ها/شیلدها (مثال) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME>&layout=compact)
