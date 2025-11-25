@@ -3,8 +3,7 @@
 
 
 
-�I’m a Robotics and Mechatronics Engineer specializing in advanced robotic systems, embedded control, and intelligent automation. My core interests include ROS (Robot Operating System), AMR (Autonomous Mobile Robots), SLAM (Simultaneous Localization and Mapping), and perception driven navigation. With a strong background in mechatronic integration, real time control, and software development, I strive to design high performance robotic platforms that combine hardware, firmware, and software seamlessly. Motivated by continuous learning and innovation, my goal is to contribute to next generation autonomous systems that push the boundaries of modern robotics and make a meaningful impact on society.
-
+�I’m a Robotics and Mechatronics Engineer specializing in advanced robotic systems, embedded control, and intelligent automation. My core interests include ROS (Robot Operating System), AMR (Autonomous Mobile Robots), SLAM (Simultaneous Localization and Mapping), and perception driven navigation. With a strong background in mechatronic integration, real time control, and software development, I strive to design high performance robotic platforms that combine hardware, firmware, and software seamlessly. Motivated by continuous learning and innovation, my goal is to contribute to next generation autonomous systems that push the boundaries of modern robotics and make a meaningful impact on society.![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966](https://github.com/user-attachments/assets/31cf7bf4-a8b0-4b40-8d9e-99437d8fe18c)
 
 ## 🛠 Tech Stack
 ![Python](https://skillicons.dev/icons?i=python)
