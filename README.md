@@ -1,4 +1,4 @@
-![12](https://github.com/user-attachments/assets/cc2f7be3-0a01-4445-94af-04be8e812ab3)[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!👋;I'm+Seyed+Ali+Ghayuori)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!👋;I'm+Seyed+Ali+Ghayuori)](https://git.io/typing-svg)
 <img width="120" height="120" alt="avatar (1)" src="https://github.com/user-attachments/assets/c595b148-766e-4ed2-8528-bd63adcbeec5" />
 
 
