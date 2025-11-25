@@ -34,7 +34,7 @@
 
 
 
-![R](https://github.com/user-attachments/assets/35703217-9ac6-4764-a8b6-a2f9083b7994)
+<img src="https://github.com/user-attachments/assets/35703217-9ac6-4764-a8b6-a2f9083b7994" width="300" height="200">
 
 
 
