@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!👋;I'm+Seyed+Ali+Ghayuori)](https://git.io/typing-svg)
+<img width="1200" height="1200" alt="avatar (1)" src="https://github.com/user-attachments/assets/c595b148-766e-4ed2-8528-bd63adcbeec5" />[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!👋;I'm+Seyed+Ali+Ghayuori)](https://git.io/typing-svg)
+
 
 
 🔭 در حال حاضر روی: <پروژه/موضوع فعلی>  
