@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+!+👋;I'm+Seyed+Ali+Ghayuori)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!👋;I'm+Seyed+Ali+Ghayuori)](https://git.io/typing-svg)
 #سلام! من <نام شما> 👋
 
 **<عنوان شغلی یا دانشجویی> | <زمینه‌ها>**
