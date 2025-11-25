@@ -25,8 +25,8 @@
   <a href="https://www.linkedin.com/in/syd-ali-ghayuori-9235a72a3/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
-
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM/">
+  
+  <a href="https://www.instagram.com/syd.ysr_mtc?igsh=MzNlNGNkZWQ4Mg/">
     <img src="https://skillicons.dev/icons?i=instagram" width="45" />
   </a>
 </p>
