@@ -1,9 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!👋;I'm+Seyed+Ali+Ghayuori)](https://git.io/typing-svg)
+![12](https://github.com/user-attachments/assets/cc2f7be3-0a01-4445-94af-04be8e812ab3)[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!👋;I'm+Seyed+Ali+Ghayuori)](https://git.io/typing-svg)
 <img width="120" height="120" alt="avatar (1)" src="https://github.com/user-attachments/assets/c595b148-766e-4ed2-8528-bd63adcbeec5" />
 
 
 
-�I’m a Robotics and Mechatronics Engineer specializing in advanced robotic systems, embedded control, and intelligent automation. My core interests include ROS (Robot Operating System), AMR (Autonomous Mobile Robots), SLAM (Simultaneous Localization and Mapping), and perception driven navigation. With a strong background in mechatronic integration, real time control, and software development, I strive to design high performance robotic platforms that combine hardware, firmware, and software seamlessly. Motivated by continuous learning and innovation, my goal is to contribute to next generation autonomous systems that push the boundaries of modern robotics and make a meaningful impact on society.!![Uploading 68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966.gif…]()
+�I’m a Robotics and Mechatronics Engineer specializing in advanced robotic systems, embedded control, and intelligent automation. My core interests include ROS (Robot Operating System), AMR (Autonomous Mobile Robots), SLAM (Simultaneous Localization and Mapping), and perception driven navigation. With a strong background in mechatronic integration, real time control, and software development, I strive to design high performance robotic platforms that combine hardware, firmware, and software seamlessly. Motivated by continuous learning and innovation, my goal is to contribute to next generation autonomous systems that push the boundaries of modern robotics and make a meaningful impact on society.
+
+![12](https://github.com/user-attachments/assets/a3cacd73-9732-48ca-b1ea-59f8c522a83c)
+
 
 ## 🛠 Tech Stack
 ![Python](https://skillicons.dev/icons?i=python)
