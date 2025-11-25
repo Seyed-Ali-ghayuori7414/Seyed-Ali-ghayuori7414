@@ -32,7 +32,12 @@
 </p>
 
 
-![Pacman Game](./images/pacman-demo.gif)
+
+
+![R](https://github.com/user-attachments/assets/35703217-9ac6-4764-a8b6-a2f9083b7994)
+
+
+
 
 
 
