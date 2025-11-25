@@ -13,7 +13,7 @@
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)
 
-**🌍 Socials: **
+##🌍 Socials:
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/user-attachments/assets/b5dc3b27-76d6-4e81-aec6-4c99d7f771d1)
 <p align="left">
   <a href="mailto:ali.ghayuori1385@gmail.com">
